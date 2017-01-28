@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\AndroidProjects\\wifiDirect1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\AndroidProjects\\wifiDirect1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\wifiDirect1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_discover.png",
+        "source": "C:\\AndroidProjects\\wifiDirect1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_discover.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\wifiDirect1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\AndroidProjects\\wifiDirect1\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\wifiDirect1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_on_off.png",
+        "source": "C:\\AndroidProjects\\wifiDirect1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_on_off.png"
+    }
+]
